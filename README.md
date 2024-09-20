@@ -42,11 +42,11 @@ The project combines datasets from Twitter and Reddit, ensuring a variety of opi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/repository-name.git
+   git clone https://github.com/Ares4270/Sentiment_Analysis_for_Stock_Price_Prediction.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd repository-name
+   cd Sentiment_Analysis_for_Stock_Price_Prediction
    ```
 3. Install dependencies:
    ```bash
@@ -54,7 +54,7 @@ The project combines datasets from Twitter and Reddit, ensuring a variety of opi
    ```
 4. Run the Jupyter Notebook containing the models:
    ```bash
-   jupyter notebook ML_and_DL_Models.ipynb
+   jupyter notebook Codebase.ipynb
    ```
 
 ## Contact
